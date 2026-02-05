@@ -45,4 +45,9 @@ export default function Login() {
         </button>
 
         <p className="text-gray-400 text-center mt-4">
-          New user? <a href="/register" className="text-
+  New user? 
+  <a href="/register" className="text-blue-400 hover:underline">
+    Register
+  </a>
+</p>
+      </div>
