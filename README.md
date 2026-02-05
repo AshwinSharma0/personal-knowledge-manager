@@ -10,7 +10,7 @@ This project was developed as part of a Full Stack Developer Internship Assessme
 
 Frontend Live:
 
-personal-knowledge-manager-git-main-ashwinsharma0s-projects.vercel.app
+https://personal-knowledge-manager-git-main-ashwinsharma0s-projects.vercel.app
 
 
 Backend API:
